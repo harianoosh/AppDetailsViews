@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">iTunes Apps</string>
+
+    <!-- Contants -->
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="name_label">Name</string>
+    <string name="login_label">Login</string>
+    <string name="submit_label">Submit</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="logout_label">Log Out</string>
+    <string name="genres_label">Genres</string>
+
+    <string name="welcome_label">Welcome</string>
+
+    <!-- LoginHandler -->
+    <string name="create_new_account_label">Create New Account</string>
+
+    <!-- Titles -->
+    <string name="login_title">Login</string>
+    <string name="register_title">Register Account</string>
+    <string name="app_categories_title">App Categories</string>
+    <string name="app_list_title">Top Paid Apps</string>
+    <string name="app_details_title">App Details</string>
+
+    <!--    Toasts-->
+    <string name="success_login">Login Successful</string>
+    <string name="success_logout">Logout Successful</string>
+    <string name="failed_login">Login Failed</string>
+    <string name="success_register">Registration Successful</string>
+    <string name="failed_register">Registration Failed</string>
+    <string name="cancelled_register">Registration Cancelled</string>
+    <string name="success_update">Update Successful</string>
+    <string name="failure_update">Update Failed</string>
+
+    <string name="invalid_email">Please enter a valid Email</string>
+    <string name="invalid_name">Please enter a valid Name</string>
+    <string name="invalid_password">Please enter a valid Password</string>
+
+    <string name="unknown_exception">Error occurred, Please try again</string>
+
+    <!--    Toasts for Async threads-->
+    <string name="fetching_account_details">Fetching account details...</string>
+    <string name="fetching_categories">Fetching Categories...</string>
+    <string name="fetching_categories_completed">Categories fetched.</string>
+    <string name="fetching_apps">Fetching Apps...</string>
+    <string name="fetching_apps_completed">Apps fetched.</string>
+
+    <string name="registering">Registration in progress...</string>
+    <string name="fetching_data">Fetching data, Please wait...</string>
+</resources>
